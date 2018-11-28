@@ -1,2 +1,2 @@
 # LoRa Shield
-It's PCB project of LoRa Ra-01 SX1278 shield for Arduino UNO.
+It's LoRa Ra-01 SX1278 shield PCB project for Arduino UNO.
